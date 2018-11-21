@@ -7,9 +7,9 @@
 * 데이터는 310,781건으로 텍스트 파일 형식
 * 예시
 ```
-  + Alabama is a state in the southeastern region of the United States.    <http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States>
-  + Greenwood also played  in the NASL for the Boston Minutemen.        <http://dbpedia.org/resource/Paddy_Greenwood> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Boston_Minutemen>
-  + Robbah is a district in El Oued Province, Algeria.  <http://dbpedia.org/resource/Robbah_District> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Algeria>
+Alabama is a state in the southeastern region of the United States.    <http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States>
+Greenwood also played  in the NASL for the Boston Minutemen.        <http://dbpedia.org/resource/Paddy_Greenwood> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Boston_Minutemen>
+Robbah is a district in El Oued Province, Algeria.  <http://dbpedia.org/resource/Robbah_District> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Algeria>
 ```
 
 
