@@ -10,3 +10,8 @@
   + Greenwood also played  in the NASL for the Boston Minutemen.        <http://dbpedia.org/resource/Paddy_Greenwood> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Boston_Minutemen>
   + Robbah is a district in El Oued Province, Algeria.  <http://dbpedia.org/resource/Robbah_District> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Algeria>
 
+
+
+
+This data is licensed under the terms of the Creative Commons Attribution-ShareAlike 3.0 license and the GNU Free Documentation License.
+
